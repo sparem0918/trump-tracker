@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    # 매 시간 정각에 자동 빌드 (한국시간 기준 UTC+9, RSS 갱신 반영)
+    # 매 시간 정각에 자동 빌드 (RSS 갱신 반영)
     - cron: "0 * * * *"
   workflow_dispatch:
 
@@ -31,6 +31,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build static site
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
         run: |
           python build_static.py
           ls -la site/

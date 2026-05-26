@@ -33,6 +33,38 @@
         </div>
     </header>
 
+    <!-- DAILY BRIEF (Gemini AI 종합 분석) -->
+    {% if brief and brief.summary %}
+    <section class="brief-section">
+        <div class="brief-header">
+            <div class="brief-label">
+                <span class="brief-dot"></span>
+                <span class="brief-tag">DAILY BRIEF</span>
+                <span class="brief-divider"></span>
+                <span class="brief-subtitle">AI 종합 분석</span>
+            </div>
+            <div class="brief-meta">{{ brief.news_count }}건 분석</div>
+        </div>
+
+        <div class="brief-body">
+            <p class="brief-summary">{{ brief.summary }}</p>
+
+            {% if brief.points %}
+            <ul class="brief-points">
+                {% for point in brief.points %}
+                <li>{{ point }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+
+        <div class="brief-footer">
+            <span class="brief-model">{{ brief.model }}</span>
+            <span class="brief-disclaimer">AI 생성 분석이며 투자 추천이 아닙니다</span>
+        </div>
+    </section>
+    {% endif %}
+
     {% if trump_section.total_count == 0 %}
     <!-- 빈 상태 -->
     <section class="empty-state">
@@ -229,11 +261,11 @@
         <div class="disclaimer">
             본 페이지는 RSS로 수집한 공개 뉴스를 정책 토픽별로 자동 분류한 보조 자료입니다.
             관련주 매핑은 시장 통상 분류 기준이며, 특정 종목의 매수·매도를 권유하지 않습니다.
-            투자 판단과 그 결과에 대한 책임은 전적으로 본인에게 있습니다.
+            AI 종합 분석은 참고용이며 투자 판단과 그 결과에 대한 책임은 전적으로 본인에게 있습니다.
         </div>
         <div class="footer-bottom">
             <span>Trump Impact Tracker</span>
-            <span class="footer-version">v1.0</span>
+            <span class="footer-version">v1.1</span>
         </div>
     </footer>
 
