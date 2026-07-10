@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-정적 사이트 빌더 (GitHub Pages 배포용)
-- Flask test_client로 HTML 추출
-- /static/ 경로를 상대 경로로 치환
-- site/ 폴더에 index.html, static/, .nojekyll 생성
-- 뉴스 0건이면 빌드 실패 (이전 배포 유지)
+정적 사이트 빌더 (GitHub Pages 배포용) - 미국 경제 데일리
 """
 import os
 import sys
@@ -37,7 +33,6 @@ def copy_static_files():
 
 
 def rewrite_paths_for_static(html):
-    """정적 호스팅용 경로 치환"""
     import re
     html = html.replace('href="/static/', 'href="static/')
     html = html.replace('src="/static/', 'src="static/')
@@ -53,7 +48,7 @@ def add_build_meta(html):
     now_kst = datetime.now(timezone(timedelta(hours=9)))
     meta = (
         f"\n<!-- Built at {now_kst.isoformat()} | "
-        f"Trump Impact Tracker | Static build for GitHub Pages -->\n"
+        f"US Economic Daily | Static build for GitHub Pages -->\n"
     )
     return html + meta
 
@@ -63,7 +58,6 @@ def build_index_html():
     if raw.get("total_count", 0) == 0:
         print("=" * 60)
         print("[빌드 중단] 수집된 뉴스가 0건입니다.")
-        print("이전 배포를 유지하기 위해 빌드를 실패 처리합니다.")
         print("=" * 60)
         sys.exit(1)
 
@@ -84,19 +78,18 @@ def build_index_html():
 
 
 def build_api_json():
-    """트럼프 섹션 JSON 부가 생성"""
     with app.app.test_client() as client:
-        resp = client.get("/api/trump")
+        resp = client.get("/api/econ")
         if resp.status_code != 200:
             return
         data = resp.get_json()
 
     api_dir = os.path.join(OUTPUT_DIR, "api")
     os.makedirs(api_dir, exist_ok=True)
-    out_path = os.path.join(api_dir, "trump.json")
+    out_path = os.path.join(api_dir, "econ.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2, default=str)
-    print(f"  생성: api/trump.json (트럼프 관련 {data.get('total_count', 0)}건)")
+    print(f"  생성: api/econ.json (미국 경제 {data.get('total_count', 0)}건)")
 
 
 def create_nojekyll():
@@ -113,7 +106,7 @@ def create_robots_txt():
 
 def main():
     print("=" * 60)
-    print("Trump Impact Tracker - Static Site Builder")
+    print("US Economic Daily - Static Site Builder")
     print("=" * 60)
     ensure_clean_output()
     copy_static_files()
