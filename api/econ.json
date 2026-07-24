@@ -1,0 +1,903 @@
+{
+  "generated_at": "2026-07-24T23:54:02.565605+09:00",
+  "macro_topics": [
+    {
+      "count": 16,
+      "description": "국제 유가·원자재 흐름과 한국 물가·무역수지 영향",
+      "icon": "◐",
+      "items": [
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724136600003",
+          "link": "https://www.yna.co.kr/view/AKR20260724136600003",
+          "published": "2026-07-24T19:00:00+09:00",
+          "published_dt": "2026-07-24T19:00:00+09:00",
+          "source": "연합뉴스 경제",
+          "source_category": "경제",
+          "summary": "(세종=연합뉴스) 장보인 기자 = 일부 유종의 국제유가가 배럴당 100달러를 넘어서자 정부가 25일부터 적용되는 8차 석유 최고가격을 동결하기로...",
+          "title": "8차 석유 최고가격 동결…국제유가 급등에 출구전략 일단 정지"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12106955",
+          "link": "https://www.mk.co.kr/news/economy/12106955",
+          "published": "2026-07-24T19:01:00+09:00",
+          "published_dt": "2026-07-24T19:01:00+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "정부가 향후 한 달간 석유제품 최고가격을 현 수준에서 유지하기로 했다. 또 정유사들은 수에즈 운하를 통한 원유 수급을 검토하고 나섰다. 24일 양기욱 산업통상부 산업자원안보실장은 ..",
+          "title": "석유최고가 동결 … 휘발유 1800원대 전망"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724134500008",
+          "link": "https://www.yna.co.kr/view/AKR20260724134500008",
+          "published": "2026-07-24T16:21:33+09:00",
+          "published_dt": "2026-07-24T16:21:33+09:00",
+          "source": "연합뉴스 경제",
+          "source_category": "경제",
+          "summary": "(서울=연합뉴스) 이민영 기자 = 코스피가 24일 중동 긴장에 따른 국제유가 급등에 5.7% 급락, 7,000선 아래로 밀려났다.",
+          "title": "또 '블랙데이'…유가급등에 코스피 5.7%·코스닥 5.3% 급락(종합)"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/stock/12107013",
+          "link": "https://www.mk.co.kr/news/stock/12107013",
+          "published": "2026-07-24T20:19:57+09:00",
+          "published_dt": "2026-07-24T20:19:57+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "코스피·코스닥 5%대 하락 국제유가 급등에 투심 악화 美FOMC 금리인상 우려도 삼전 7%·하닉 8% 떨어져삼전닉스를 비롯한 국내 반도체주 투자 심리가 위축되면서 국내 증시가 연일..",
+          "title": "“이번주 내내 사이드카, 국장 못하겠습니다”…저점매수 했더니 지하실로"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12106225",
+          "link": "https://www.mk.co.kr/news/economy/12106225",
+          "published": "2026-07-24T05:45:18+09:00",
+          "published_dt": "2026-07-24T05:45:18+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "홍해 유조선 피격에 유가 7%↑ 유가 120~140달러 폭등 우려도이란전쟁 2라운드의 전운이 고조되자 국제유가가 다시 배럴당 100달러를 넘으며 불안심리가 확산되면서 미국 증시가 ..",
+          "title": "트럼프 “대규모 공격” 전운 고조에...유가 100달러, 나스닥 -2% [월가월부]"
+        }
+      ],
+      "kr_comment": "유가 상승은 원유 전량을 수입하는 한국의 무역수지와 물가에 직접 타격을 줍니다. 정유·항공·해운 등 유가 민감 업종의 실적 변동성도 커집니다.",
+      "name": "유가·원자재"
+    },
+    {
+      "count": 3,
+      "description": "달러 흐름과 원화 가치·외국인 수급 영향",
+      "icon": "◑",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/world/12106526",
+          "link": "https://www.mk.co.kr/news/world/12106526",
+          "published": "2026-07-24T13:09:16+09:00",
+          "published_dt": "2026-07-24T13:09:16+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "미국 도널드 트럼프 행정부가 최근 급격한 엔화 약세에 대해 공개적인 우려를 나타냈다. 미국 재무부는 엔화의 과도한 변동성이 바람직하지 않다는 입장을 밝히며 일본의 환율 흐름을 예의..",
+          "title": "“과도한 변동성 바람직하지 않다”…트럼프 행정부, 엔저에 경고음"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724073800073",
+          "link": "https://www.yna.co.kr/view/AKR20260724073800073",
+          "published": "2026-07-24T11:16:58+09:00",
+          "published_dt": "2026-07-24T11:16:58+09:00",
+          "source": "연합뉴스 국제",
+          "source_category": "글로벌",
+          "summary": "(도쿄=연합뉴스) 이도연 특파원 = 미국 도널드 트럼프 행정부가 23일(현지시간) 최근 엔화 약세에 대해 \"과도한 변동성은 바람직하지 않다\"는 ...",
+          "title": "엔화 가치 하락에…美 \"과도한 변동성 바람직하지 않아\""
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12106276",
+          "link": "https://www.mk.co.kr/news/economy/12106276",
+          "published": "2026-07-24T06:25:09+09:00",
+          "published_dt": "2026-07-24T06:25:09+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "도널드 트럼프 미국 행정부가 한국을 환율 관찰대상국 명단에 다시 포함시켰다. 다만 한국의 외환시장 개방 확대 노력에 대해서는 긍정적인 평가를 내놓으며 향후 시장 유동성 개선에 도움..",
+          "title": "‘원화 계속 약세’ 콕 집은 美…한국 ‘환율 관찰대상국’에 또 올려"
+        }
+      ],
+      "kr_comment": "달러 강세는 원화 약세로 이어져 외국인 자금 이탈을 자극할 수 있습니다. 다만 원화 약세는 수출 기업의 가격 경쟁력에는 유리하게 작용하는 양면성이 있습니다.",
+      "name": "달러·환율"
+    },
+    {
+      "count": 3,
+      "description": "연준 통화정책 방향과 한국 금리·환율 파급",
+      "icon": "▤",
+      "items": [
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724174200108",
+          "link": "https://www.yna.co.kr/view/AKR20260724174200108",
+          "published": "2026-07-24T20:08:35+09:00",
+          "published_dt": "2026-07-24T20:08:35+09:00",
+          "source": "연합뉴스 국제",
+          "source_category": "글로벌",
+          "summary": "(이스탄불=연합뉴스) 김동호 특파원 = 러시아 중앙은행은 24일(현지시간) 이사회 회의를 통해 기준금리를 14.25%에서 14.00%로 0.25...",
+          "title": "러, 기준금리 14.0%로 인하…10차례 잇달아 내려"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12106644",
+          "link": "https://www.mk.co.kr/news/economy/12106644",
+          "published": "2026-07-24T14:51:28+09:00",
+          "published_dt": "2026-07-24T14:51:28+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "‘AI시대 성공 투자법’ 뉴욕서 글로벌 금융리더포럼 AI 투자, 반도체가 다 아냐…‘제2 엔비디아’ 전력생태계서 前 연준 부의장 “美, 올해 금리 내리지만 내년엔 시계제로”“앞으..",
+          "title": "“갓비디아 나만 없는데”…제2의 엔비디아 잡을 기회, 여기를 주목"
+        },
+        {
+          "id": "CBMidkFVX3lxTFBVbjkxdmlZRDJLQzZNYnlqYVh5M2hBNzVfVTJaY1hXMjFpRGhLbGtmN3VPN2pIYWx2eXZ0WmRGOFlvcTQ2OUw4Qk9lTUV6S3A5azN6T2M3ZGVYMkhaT01ILXFVM3lvQWp0NF9DRk1hZTNQTkZFaEE",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVbjkxdmlZRDJLQzZNYnlqYVh5M2hBNzVfVTJaY1hXMjFpRGhLbGtmN3VPN2pIYWx2eXZ0WmRGOFlvcTQ2OUw4Qk9lTUV6S3A5azN6T2M3ZGVYMkhaT01ILXFVM3lvQWp0NF9DRk1hZTNQTkZFaEE?oc=5",
+          "published": "2026-07-23T05:26:00+00:00",
+          "published_dt": "2026-07-23T05:26:00+00:00",
+          "source": "Google News - US Economy",
+          "source_category": "글로벌",
+          "summary": "Fed Chair Warsh's 'Three Keywords' Stoke Uncertainty… Bank of Korea Flags Four Major Risks finance.biggo.com",
+          "title": "Fed Chair Warsh's 'Three Keywords' Stoke Uncertainty… Bank of Korea Flags Four Major Risks - finance.biggo.com"
+        }
+      ],
+      "kr_comment": "미국 기준금리가 한국보다 높은 상태가 이어지면 원·달러 환율 상승 압력이 커지고, 외국인 자금 이탈 가능성이 코스피에 부담으로 작용할 수 있습니다. 한국은행도 미국과의 금리차를 고려해 인하를 자제하는 경향이 있습니다.",
+      "name": "통화정책·금리"
+    },
+    {
+      "count": 2,
+      "description": "미국 물가 지표와 금리 경로에 대한 시사점",
+      "icon": "◈",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/stock/12106503",
+          "link": "https://www.mk.co.kr/news/stock/12106503",
+          "published": "2026-07-24T11:55:20+09:00",
+          "published_dt": "2026-07-24T11:55:20+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "중동발 지정학적 리스크가 국내 증시를 강타했다. 국제유가 급등으로 인플레이션 우려가 다시 커지면서 외국인과 기관의 매도세가 쏟아졌고, 코스피는 5% 넘게 급락하며 6600선까지 밀..",
+          "title": "[속보] 코스피 이어 코스닥도 급락에 매도 사이드카"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724088300008",
+          "link": "https://www.yna.co.kr/view/AKR20260724088300008",
+          "published": "2026-07-24T14:00:02+09:00",
+          "published_dt": "2026-07-24T14:00:02+09:00",
+          "source": "연합뉴스 경제",
+          "source_category": "경제",
+          "summary": "(서울=연합뉴스) 강수지 기자 = 예상을 웃돈 지난 2분기 성장에 한국은행의 8월 연속 기준금리 인상 경계감이 커지고 있다. 실제 인상을 결정할...",
+          "title": "커지는 기준금리 연속인상 경계감…\"근원물가에 달렸다\""
+        }
+      ],
+      "kr_comment": "미국 물가가 높게 유지되면 금리 인하 시점이 지연되어 달러 강세·원화 약세로 이어질 수 있습니다. 원화 약세는 수입물가를 밀어올려 국내 물가에도 부담을 줍니다.",
+      "name": "물가·인플레이션"
+    },
+    {
+      "count": 1,
+      "description": "미국 고용·성장 지표로 보는 경기 사이클",
+      "icon": "◉",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/economy/12106875",
+          "link": "https://www.mk.co.kr/news/economy/12106875",
+          "published": "2026-07-24T17:40:04+09:00",
+          "published_dt": "2026-07-24T17:40:04+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "K자 호황의 청구서 ①한국은행은 7월 16일 기준금리를 2.50%에서 2.75%로 올렸다. 금융통화위원 7명이 모두 인상에 찬성했다. 같은 달 제조업 취업자는 1년 전보다 9만70..",
+          "title": "반도체값이 만든 ‘소득 13.2% 급증’…일자리 줄었는데 금리 올린 한은 [BOK WATCHER]"
+        }
+      ],
+      "kr_comment": "미국 고용이 견조하면 연준의 금리 인하 명분이 약해져 긴축 기조가 길어질 수 있습니다. 반대로 경기 둔화 신호는 수출 의존도가 높은 한국 경제에 직접적 부담이 됩니다.",
+      "name": "고용·경기"
+    }
+  ],
+  "sector_topics": [
+    {
+      "count": 18,
+      "description": "미국 무역·관세 정책과 한국 수출 산업 전반",
+      "icon": "⚖",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/world/12106889",
+          "link": "https://www.mk.co.kr/news/world/12106889",
+          "published": "2026-07-24T17:47:19+09:00",
+          "published_dt": "2026-07-24T17:47:19+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "도널드 트럼프 미국 행정부가 24일(현지시간) 무역법 301조를 활용해 최고 12.5%의 '강제노동 관세'를 부과하기 시작했다. 한국도 관세 12.5%를 물게 됐다. 여기에 조만간..",
+          "title": "또 살아난 트럼프 관세 … 美, 301조 '강제노동' 부과"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724080100003",
+          "link": "https://www.yna.co.kr/view/AKR20260724080100003",
+          "published": "2026-07-24T11:56:33+09:00",
+          "published_dt": "2026-07-24T11:56:33+09:00",
+          "source": "연합뉴스 경제",
+          "source_category": "경제",
+          "summary": "(서울=연합뉴스) 신창용 기자 = 도널드 트럼프 미국 행정부가 23일(현지시간) 강제노동으로 생산된 제품의 수입 차단이 미흡하다는 이유로 한국에...",
+          "title": "12.5% 발표에도 끝나지 않은 대미관세 협상…15% 사수할까"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724049251003",
+          "link": "https://www.yna.co.kr/view/AKR20260724049251003",
+          "published": "2026-07-24T11:43:05+09:00",
+          "published_dt": "2026-07-24T11:43:05+09:00",
+          "source": "연합뉴스 경제",
+          "source_category": "경제",
+          "summary": "(서울=연합뉴스) 신창용 기자 = 정부는 미국 무역대표부(USTR)가 23일(현지시간) 발표한 강제노동 관련 무역법 301조 관세와 관련해 미측...",
+          "title": "정부 \"미측, 한국 관세 15% 상한선 준수 입장 재확인\"(종합)"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/stock/12106328",
+          "link": "https://www.mk.co.kr/news/stock/12106328",
+          "published": "2026-07-24T09:11:53+09:00",
+          "published_dt": "2026-07-24T09:11:53+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "분기영업익 2917억 전망치 상회 일회성 비용 걷어내도 이익 개선 하반기 멕시코 공장 가동 본격화두산밥캣이 미국 관세 환급 효과에 힘입어 올해 2분기 시장 예상을 크게 웃도는 영업..",
+          "title": "두산밥캣 ‘1100억 美관세환급’ 깜짝실적…목표주가 줄줄이 상향"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724010053071",
+          "link": "https://www.yna.co.kr/view/AKR20260724010053071",
+          "published": "2026-07-24T07:36:34+09:00",
+          "published_dt": "2026-07-24T07:36:34+09:00",
+          "source": "연합뉴스 국제",
+          "source_category": "글로벌",
+          "summary": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 행정부는 23일(현지시간) 무역법 301조를 근거로 10∼12.5%의 '강제노동 관세'...",
+          "title": "美, '301조 강제노동 관세' 60개국에 부과…한국 12.5%(종합)"
+        }
+      ],
+      "name": "무역·관세",
+      "stocks": [
+        {
+          "code": "005930",
+          "market": "KOSPI",
+          "name": "삼성전자",
+          "note": "반도체 대미 수출 최대"
+        },
+        {
+          "code": "005380",
+          "market": "KOSPI",
+          "name": "현대차",
+          "note": "자동차 관세 직접 영향"
+        },
+        {
+          "code": "005490",
+          "market": "KOSPI",
+          "name": "포스코홀딩스",
+          "note": "철강 232조 관세"
+        },
+        {
+          "code": "066570",
+          "market": "KOSPI",
+          "name": "LG전자",
+          "note": "가전 대미 수출·현지 생산"
+        },
+        {
+          "code": "161390",
+          "market": "KOSPI",
+          "name": "한국타이어앤테크놀로지",
+          "note": "타이어 관세 이슈"
+        }
+      ]
+    },
+    {
+      "count": 13,
+      "description": "미국 AI·빅테크 CAPEX와 한국 인프라 수혜주",
+      "icon": "◎",
+      "items": [
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724018400009",
+          "link": "https://www.yna.co.kr/view/AKR20260724018400009",
+          "published": "2026-07-24T11:22:29+09:00",
+          "published_dt": "2026-07-24T11:22:29+09:00",
+          "source": "연합뉴스 국제",
+          "source_category": "글로벌",
+          "summary": "(서울=연합뉴스) 설원태 기자 = 구글 모회사 알파벳이 보유한 앤트로픽 주식 가치가 1천243억달러(약 183조원)로 급등해 회사 역사상 최고의...",
+          "title": "알파벳의 앤트로픽 지분가치 183조원으로 뛰어"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12106009",
+          "link": "https://www.mk.co.kr/news/world/12106009",
+          "published": "2026-07-23T21:44:22+09:00",
+          "published_dt": "2026-07-23T21:44:22+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "유럽연합(EU)이 미국 빅테크 구글에 8억9000만 유로(약 1조5000억원)의 과징금을 추가로 부과한다고 로이터통신과 영국 가디언이 23일(현지시간) 보도했다. 검색 시장에서 자..",
+          "title": "구글에 화난 EU, 1조5000억원 추가 과징금 폭탄"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/stock/12106385",
+          "link": "https://www.mk.co.kr/news/stock/12106385",
+          "published": "2026-07-24T10:05:30+09:00",
+          "published_dt": "2026-07-24T10:05:30+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "안녕하세요. 미국 주식 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’입니다. 23일, 트윌리오(TWLO)가 MK시그널에서 매도 신호가 포착돼 수익률 48.11% 달성했습니다..",
+          "title": "[MK시그널] 트윌리오 매도신호 포착, 수익률 48.1% 달성"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12106571",
+          "link": "https://www.mk.co.kr/news/economy/12106571",
+          "published": "2026-07-24T13:56:38+09:00",
+          "published_dt": "2026-07-24T13:56:38+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "제26회 세계지식포럼 9일 개막 트뤼도 “돈 앞세운 美中 기술 독식” 니블릿 “미국, 우선주의 함정 빠져”“글로벌 인공지능(AI) 기술 경쟁이 마치 미국과 중국 간 냉전 경쟁처럼..",
+          "title": "“AI 경쟁은 냉전시대, 패권주의만 득세”…세계지식포럼서 풀어가는 대전환기 해법"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12107071",
+          "link": "https://www.mk.co.kr/news/world/12107071",
+          "published": "2026-07-24T22:44:14+09:00",
+          "published_dt": "2026-07-24T22:44:14+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "궁지 내몰리는 오픈AI “틀린 의료진단 받고 죽을뻔” 美 50대, 샘 울트먼에 소송 계속된 사고로 소송 줄이어 “AI 통제 불능 땐 가동 중단” 결국 하원서 공동발의 나서챗GPT ..",
+          "title": "“쉬면 낫는다” 믿었다가 사경 헤맸다…챗GPT에 책임 물을 길 없나요"
+        }
+      ],
+      "name": "AI·빅테크",
+      "stocks": [
+        {
+          "code": "000660",
+          "market": "KOSPI",
+          "name": "SK하이닉스",
+          "note": "AI 서버 HBM 수요 직결"
+        },
+        {
+          "code": "035420",
+          "market": "KOSPI",
+          "name": "네이버",
+          "note": "하이퍼클로바X, 소버린 AI"
+        },
+        {
+          "code": "012510",
+          "market": "KOSPI",
+          "name": "더존비즈온",
+          "note": "기업용 AI SaaS"
+        },
+        {
+          "code": "041020",
+          "market": "KOSDAQ",
+          "name": "폴라리스오피스",
+          "note": "AI 오피스 소프트웨어"
+        },
+        {
+          "code": "093320",
+          "market": "KOSDAQ",
+          "name": "케이아이엔엑스",
+          "note": "데이터센터·인터넷 인프라"
+        }
+      ]
+    },
+    {
+      "count": 12,
+      "description": "미국 반도체 정책·업황과 한국 반도체 밸류체인",
+      "icon": "▣",
+      "items": [
+        {
+          "id": "CBMidkFVX3lxTE1vRTBrdWQzcVpQZ2lLeGRtanZDSThXX1BNR2hCaDdUOVVSOHJ5d3JlTFZtLU5DZ0VNWnBoeDZxUlhLQTV4U1NzVmQwbHhaSkRDbC14eEVyaDdoaG00ODNzaEFnZ0s2YXEtZ3R3Yzlibl9SVURTVlE",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vRTBrdWQzcVpQZ2lLeGRtanZDSThXX1BNR2hCaDdUOVVSOHJ5d3JlTFZtLU5DZ0VNWnBoeDZxUlhLQTV4U1NzVmQwbHhaSkRDbC14eEVyaDdoaG00ODNzaEFnZ0s2YXEtZ3R3Yzlibl9SVURTVlE?oc=5",
+          "published": "2026-07-22T18:55:00+00:00",
+          "published_dt": "2026-07-22T18:55:00+00:00",
+          "source": "Google News - US Economy",
+          "source_category": "글로벌",
+          "summary": "Semiconductor Stocks Surge Then Fade as Profit-Taking Caps Rally; Samsung Up 0.6%, SK Hynix Down 0.3% finance.biggo.com",
+          "title": "Semiconductor Stocks Surge Then Fade as Profit-Taking Caps Rally; Samsung Up 0.6%, SK Hynix Down 0.3% - finance.biggo.com"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12106914",
+          "link": "https://www.mk.co.kr/news/world/12106914",
+          "published": "2026-07-24T17:52:36+09:00",
+          "published_dt": "2026-07-24T17:52:36+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "미국 무역대표부(USTR)가 23일(현지시간) 예고한 대로 무역법 301조상의 '강제노동 관세' 12.5%를 한국에 부과키로 하면서 한국 정부와 재계는 구체적 내용과 파급 효과를 ..",
+          "title": "주력 수출품 반도체·車·철강 면제 …'과잉생산 관세' 불씨는 남아"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12106574",
+          "link": "https://www.mk.co.kr/news/economy/12106574",
+          "published": "2026-07-24T13:57:02+09:00",
+          "published_dt": "2026-07-24T13:57:02+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "제26회 세계지식포럼 트럼프 불확실성·제조업 위축 겹쳐…침체도 대비해야 “美, 세계를 상대로 싸워”…“韓, HBM을 협상 지렛대로”미국 우선주의 정책으로 인한 시장 불확실성 증대..",
+          "title": "미국 무차별 관세에 이민정책 폭주…“이러다 스태그플레이션” 쏟아지는 경고"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724016000091",
+          "link": "https://www.yna.co.kr/view/AKR20260724016000091",
+          "published": "2026-07-24T07:23:06+09:00",
+          "published_dt": "2026-07-24T07:23:06+09:00",
+          "source": "연합뉴스 국제",
+          "source_category": "글로벌",
+          "summary": "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 반도체 기업 인텔이 시장의 예상을 훌쩍 뛰어넘는 '어닝 서프라이즈'(실적 급등)를 기록하면서 주...",
+          "title": "인텔, 2분기 매출 25% 올라 어닝서프라이즈…15년만에 최대 성장"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/stock/12105793",
+          "link": "https://www.mk.co.kr/news/stock/12105793",
+          "published": "2026-07-23T17:55:52+09:00",
+          "published_dt": "2026-07-23T17:55:52+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "인공지능(AI) 반도체 거품론이 시장에서 제기된 가운데 구글 모회사 알파벳이 올해 인프라스트럭처 투자 규모를 최대 1900억달러(약 279조원)에서 2050억달러(약 303조원)로..",
+          "title": "구글 AI 투자 확대에 반도체株 '기력 충전'"
+        }
+      ],
+      "name": "반도체",
+      "stocks": [
+        {
+          "code": "005930",
+          "market": "KOSPI",
+          "name": "삼성전자",
+          "note": "메모리·파운드리, 테일러 공장 양산"
+        },
+        {
+          "code": "000660",
+          "market": "KOSPI",
+          "name": "SK하이닉스",
+          "note": "HBM 글로벌 1위, 엔비디아 공급"
+        },
+        {
+          "code": "042700",
+          "market": "KOSPI",
+          "name": "한미반도체",
+          "note": "HBM TC본더 글로벌 1위"
+        },
+        {
+          "code": "039030",
+          "market": "KOSDAQ",
+          "name": "이오테크닉스",
+          "note": "레이저 어닐링 장비"
+        },
+        {
+          "code": "403870",
+          "market": "KOSDAQ",
+          "name": "HPSP",
+          "note": "고압 수소 어닐링 독점"
+        },
+        {
+          "code": "058470",
+          "market": "KOSDAQ",
+          "name": "리노공업",
+          "note": "반도체 테스트 소켓"
+        }
+      ]
+    },
+    {
+      "count": 6,
+      "description": "미국 국방·우주 정책과 K-방산 수출",
+      "icon": "✦",
+      "items": [
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724148000052",
+          "link": "https://www.yna.co.kr/view/AKR20260724148000052",
+          "published": "2026-07-24T17:03:23+09:00",
+          "published_dt": "2026-07-24T17:03:23+09:00",
+          "source": "연합뉴스 경제",
+          "source_category": "경제",
+          "summary": "(창원=연합뉴스) 이준영 기자 = 경남도는 지난 20일부터 24일까지 영국 햄프셔주에서 열린 '2026 판버러 에어쇼'에 도내 우주항공기업 8개...",
+          "title": "경남도, 영국 판버러 에어쇼서 3억600만달러 수출 상담 성과"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12106621",
+          "link": "https://www.mk.co.kr/news/world/12106621",
+          "published": "2026-07-24T14:29:58+09:00",
+          "published_dt": "2026-07-24T14:29:58+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "다음달 예수보호 해제 앞두고 공매도 베팅 더 늘어날 가능성스페이스X를 공매도한 투자자들이 155억달러(약 22조8000억원)의 평가이익을 거둔 것으로 나타났다. 다음 달 대규모 보..",
+          "title": "“IPO 축포 터질 때 미소 짓던 그들”…스페이스X 반토막에 공매도 22조 벌었다"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12106467",
+          "link": "https://www.mk.co.kr/news/world/12106467",
+          "published": "2026-07-24T11:18:36+09:00",
+          "published_dt": "2026-07-24T11:18:36+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "록히드마틴 미사일 사업 부문 매출 2분기에 전년동기 대비 19% 증가 토마호크 제작 레이시온도 18% 늘어 해외 수요도 상당…“수년간 이어질 것”미국 정부가 미사일 비축량을 보충하..",
+          "title": "텅 빈 무기고 채우는 美, 방산기업 수주잔고 사상 최대"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724014400009",
+          "link": "https://www.yna.co.kr/view/AKR20260724014400009",
+          "published": "2026-07-24T07:19:03+09:00",
+          "published_dt": "2026-07-24T07:19:03+09:00",
+          "source": "연합뉴스 국제",
+          "source_category": "글로벌",
+          "summary": "(서울=연합뉴스) 정주호 기자 = 스페이스X 공매도 투자자들이 155억달러(약 22조8천억원)에 달하는 평가이익을 거두고 있는 것으로 나타났다.",
+          "title": "스페이스X 주가 반토막…\"공매도 22조원 평가익\""
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724177400109",
+          "link": "https://www.yna.co.kr/view/AKR20260724177400109",
+          "published": "2026-07-24T21:49:02+09:00",
+          "published_dt": "2026-07-24T21:49:02+09:00",
+          "source": "연합뉴스 국제",
+          "source_category": "글로벌",
+          "summary": "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 24일(현지시간) 미국 방산업체와 만나 도널드 트럼프 미국 대통령과 ...",
+          "title": "젤렌스키, 美레이시온과 패트리엇 공동 생산 논의"
+        }
+      ],
+      "name": "방산·우주",
+      "stocks": [
+        {
+          "code": "012450",
+          "market": "KOSPI",
+          "name": "한화에어로스페이스",
+          "note": "K9·우주발사체"
+        },
+        {
+          "code": "064350",
+          "market": "KOSPI",
+          "name": "현대로템",
+          "note": "K2 전차 수출"
+        },
+        {
+          "code": "079550",
+          "market": "KOSPI",
+          "name": "LIG넥스원",
+          "note": "유도무기, 美 수출 추진"
+        },
+        {
+          "code": "047810",
+          "market": "KOSPI",
+          "name": "한국항공우주",
+          "note": "FA-50·KF-21"
+        },
+        {
+          "code": "099320",
+          "market": "KOSDAQ",
+          "name": "쎄트렉아이",
+          "note": "위성 시스템"
+        }
+      ]
+    },
+    {
+      "count": 4,
+      "description": "한미 조선 협력과 미국 해양 정책",
+      "icon": "▦",
+      "items": [
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724076400003",
+          "link": "https://www.yna.co.kr/view/AKR20260724076400003",
+          "published": "2026-07-24T11:36:24+09:00",
+          "published_dt": "2026-07-24T11:36:24+09:00",
+          "source": "연합뉴스 산업",
+          "source_category": "산업",
+          "summary": "(서울=연합뉴스) 김윤구 기자 = 국내 조선 3사가 미국과 협력을 잇달아 확대하고 있다.",
+          "title": "조선3사, 미국과 전방위 협력…1천500억달러 조선동맹 가속"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12106913",
+          "link": "https://www.mk.co.kr/news/world/12106913",
+          "published": "2026-07-24T17:52:36+09:00",
+          "published_dt": "2026-07-24T17:52:36+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "하워드 러트닉 미국 상무부 장관은 23일(현지시간) 한미 조선 협력을 구체화하기 위한 한미 조선협력센터 개소식에서 미국 내에서 얼마나 많은 선박이 생산될 수 있는지가 중요하다고 강..",
+          "title": "러트닉 \"美서 건조한 선박數로 평가할 것\"… 한국에 마스가 성과 압박"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12106038",
+          "link": "https://www.mk.co.kr/news/world/12106038",
+          "published": "2026-07-23T22:19:51+09:00",
+          "published_dt": "2026-07-23T22:19:51+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "도널드 트럼프 미국 대통령이 23일(현지시간) 예멘의 친이란 후티 반군의 사우디아라비아 유조선 공격에 대해 이란에 책임을 묻겠다고 경고했다. 후티가 다시 상선을 공격할 경우 배후 ..",
+          "title": "트럼프 “후티가 또 선박 공격하면 이란·후티에 군사적 응징”"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12106258",
+          "link": "https://www.mk.co.kr/news/world/12106258",
+          "published": "2026-07-24T06:07:41+09:00",
+          "published_dt": "2026-07-24T06:07:41+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "후티의 홍해 유조선 공격에 “또 공격하면 이란·후티에 군사적 응징”도널드 트럼프 미국 대통령이 이란을 상대로 “이전 어느 때보다 더 큰 공격”을 검토하고 있다며 사실상 전면전 가..",
+          "title": "트럼프 “이란 아직 덜 아팠다…대규모 공격 결정 직전” 전면전 초읽기"
+        }
+      ],
+      "name": "조선·해운",
+      "stocks": [
+        {
+          "code": "329180",
+          "market": "KOSPI",
+          "name": "HD현대중공업",
+          "note": "美 함정 MRO·MASGA 핵심"
+        },
+        {
+          "code": "042660",
+          "market": "KOSPI",
+          "name": "한화오션",
+          "note": "필리 조선소 인수, 美 현지"
+        },
+        {
+          "code": "010140",
+          "market": "KOSPI",
+          "name": "삼성중공업",
+          "note": "LNG선 수주 강세"
+        },
+        {
+          "code": "009540",
+          "market": "KOSPI",
+          "name": "HD한국조선해양",
+          "note": "조선 지주회사"
+        },
+        {
+          "code": "011200",
+          "market": "KOSPI",
+          "name": "HMM",
+          "note": "미주 노선 컨테이너 운임"
+        }
+      ]
+    },
+    {
+      "count": 3,
+      "description": "미국 자동차·배터리 정책과 한국 모빌리티 밸류체인",
+      "icon": "▥",
+      "items": [
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724129500003",
+          "link": "https://www.yna.co.kr/view/AKR20260724129500003",
+          "published": "2026-07-24T16:12:28+09:00",
+          "published_dt": "2026-07-24T16:12:28+09:00",
+          "source": "연합뉴스 산업",
+          "source_category": "산업",
+          "summary": "(서울=연합뉴스) 홍규빈 기자 = 지난 2분기 기아가 글로벌 수요 둔화와 미국 관세를 딛고 선방할 수 있었던 배경으로 전 세계 시장별로 맞춤화한...",
+          "title": "기아, 맞춤전략으로 선방…미국은 하이브리드·유럽은 전기차"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724031700009",
+          "link": "https://www.yna.co.kr/view/AKR20260724031700009",
+          "published": "2026-07-24T09:06:02+09:00",
+          "published_dt": "2026-07-24T09:06:02+09:00",
+          "source": "연합뉴스 국제",
+          "source_category": "글로벌",
+          "summary": "(서울=연합뉴스) 정주호 기자 = 테슬라가 할인 판매 등으로 예상 밖의 순이익 감소를 보이고 로보택시·옵티머스 로봇 관련 기존 목표까지 후퇴시키...",
+          "title": "\"할인이 덫 됐나\" 테슬라 이익 쇼크에 주가 15%↓"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724168200081",
+          "link": "https://www.yna.co.kr/view/AKR20260724168200081",
+          "published": "2026-07-24T18:50:28+09:00",
+          "published_dt": "2026-07-24T18:50:28+09:00",
+          "source": "연합뉴스 국제",
+          "source_category": "글로벌",
+          "summary": "(파리=연합뉴스) 송진원 특파원 = 프랑스 정부는 테슬라의 첨단 주행 보조기능인 '감독형 FSD(완전자율주행)'의 안전성이 미흡하다며 현 단계에...",
+          "title": "프랑스, '테슬라 완전자율주행' 안전성 미흡에 도입 보류"
+        }
+      ],
+      "name": "자동차·2차전지",
+      "stocks": [
+        {
+          "code": "005380",
+          "market": "KOSPI",
+          "name": "현대차",
+          "note": "조지아 메타플랜트 가동"
+        },
+        {
+          "code": "000270",
+          "market": "KOSPI",
+          "name": "기아",
+          "note": "미국 현지 생산 확대"
+        },
+        {
+          "code": "012330",
+          "market": "KOSPI",
+          "name": "현대모비스",
+          "note": "부품 현지화"
+        },
+        {
+          "code": "373220",
+          "market": "KOSPI",
+          "name": "LG에너지솔루션",
+          "note": "IRA 보조금 최대 수혜"
+        },
+        {
+          "code": "006400",
+          "market": "KOSPI",
+          "name": "삼성SDI",
+          "note": "미국 합작공장 확대"
+        },
+        {
+          "code": "247540",
+          "market": "KOSDAQ",
+          "name": "에코프로비엠",
+          "note": "양극재 북미 공급망"
+        }
+      ]
+    },
+    {
+      "count": 3,
+      "description": "미국 전력 수요 급증과 한국 원전·전력기기 수출",
+      "icon": "☼",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/world/12106243",
+          "link": "https://www.mk.co.kr/news/world/12106243",
+          "published": "2026-07-24T06:00:18+09:00",
+          "published_dt": "2026-07-24T06:00:18+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "도널드 트럼프 미국 행정부가 22일(현지시간) 사우디아라비아와 체결한 원자력 협정을 둘러싸고 전 세계에 논란이 일고 있다. 이번 협정이 사우디에 우라늄 농축의 길을 터주는 등 중동..",
+          "title": "사우디에 핵 빗장 풀어준 트럼프…동맹국인 한국은?"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12105720",
+          "link": "https://www.mk.co.kr/news/world/12105720",
+          "published": "2026-07-23T17:38:48+09:00",
+          "published_dt": "2026-07-23T17:38:48+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "도널드 트럼프 미국 행정부가 22일(현지시간) 사우디아라비아와 체결한 원자력 협정을 둘러싸고 전 세계에 논란이 일고 있다. 이번 협정이 사우디에 우라늄 농축의 길을 터주는 등 중동..",
+          "title": "美, 사우디에 핵 문턱 낮춰주자 … 韓 \"동맹국도 허용을\" 기대감"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724102500504",
+          "link": "https://www.yna.co.kr/view/AKR20260724102500504",
+          "published": "2026-07-24T14:20:41+09:00",
+          "published_dt": "2026-07-24T14:20:41+09:00",
+          "source": "연합뉴스 산업",
+          "source_category": "산업",
+          "summary": "(서울=연합뉴스) 김지헌 기자 = 케빈 김 주아세안(ASEAN·동남아시아국가연합) 미국대사는 한국·미국·일본이 함께 추진하기로 한 소형모듈원자로...",
+          "title": "美 케빈 김 \"SMR 협력은 최우선 과제…구체적 논의 이어갈 것\""
+        }
+      ],
+      "name": "원전·전력기기",
+      "stocks": [
+        {
+          "code": "034020",
+          "market": "KOSPI",
+          "name": "두산에너빌리티",
+          "note": "SMR 파운드리, 웨스팅하우스 협력"
+        },
+        {
+          "code": "267260",
+          "market": "KOSPI",
+          "name": "HD현대일렉트릭",
+          "note": "북미 변압기 수주 폭증"
+        },
+        {
+          "code": "298040",
+          "market": "KOSPI",
+          "name": "효성중공업",
+          "note": "미국 초고압 변압기 공장"
+        },
+        {
+          "code": "010120",
+          "market": "KOSPI",
+          "name": "LS ELECTRIC",
+          "note": "배전기기·북미 데이터센터"
+        },
+        {
+          "code": "052690",
+          "market": "KOSPI",
+          "name": "한전기술",
+          "note": "원전 설계"
+        },
+        {
+          "code": "033100",
+          "market": "KOSDAQ",
+          "name": "제룡전기",
+          "note": "미국향 변압기 수출"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "description": "미국 FDA·약가 정책과 한국 바이오 기업",
+      "icon": "✚",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/stock/12105699",
+          "link": "https://www.mk.co.kr/news/stock/12105699",
+          "published": "2026-07-23T17:31:30+09:00",
+          "published_dt": "2026-07-23T17:31:30+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "골관절염 치료제 3상 실패 여파 두달만에 주가 85% 급락 ‘충격’코오롱티슈진이 골관절염 세포유전자치료제의 미국 임상 3상 실패 여파로 3거래일 연속 하한가를 기록했다. 23일 코..",
+          "title": "“순식간에 주가 3분의1 토막, 빠져나올 틈도 안줘”…코오롱티슈진 3일 연속 하한가"
+        },
+        {
+          "id": "https://www.yna.co.kr/view/AKR20260724081600017",
+          "link": "https://www.yna.co.kr/view/AKR20260724081600017",
+          "published": "2026-07-24T11:47:34+09:00",
+          "published_dt": "2026-07-24T11:47:34+09:00",
+          "source": "연합뉴스 산업",
+          "source_category": "산업",
+          "summary": "(서울=연합뉴스) 박상현 기자 = HLB[028300]는 표적 항암제 '리라푸그라티닙'의 미국 승인과 관련해 미국 식품의약국(FDA)과 협의를 ...",
+          "title": "[바이오스냅] HLB 담관암 치료제, FDA 후반부 심사 협의 완료"
+        }
+      ],
+      "name": "바이오·헬스케어",
+      "stocks": [
+        {
+          "code": "207940",
+          "market": "KOSPI",
+          "name": "삼성바이오로직스",
+          "note": "CDMO 글로벌 1위"
+        },
+        {
+          "code": "068270",
+          "market": "KOSPI",
+          "name": "셀트리온",
+          "note": "바이오시밀러 미국 판매"
+        },
+        {
+          "code": "326030",
+          "market": "KOSPI",
+          "name": "SK바이오팜",
+          "note": "美 직판 뇌전증 신약"
+        },
+        {
+          "code": "000100",
+          "market": "KOSPI",
+          "name": "유한양행",
+          "note": "렉라자 미국 승인"
+        },
+        {
+          "code": "196170",
+          "market": "KOSDAQ",
+          "name": "알테오젠",
+          "note": "SC제형 변환 플랫폼"
+        }
+      ]
+    }
+  ],
+  "total_count": 143,
+  "uncategorized": [
+    {
+      "id": "https://www.yna.co.kr/view/AKR20260724180800071",
+      "link": "https://www.yna.co.kr/view/AKR20260724180800071",
+      "published": "2026-07-24T23:31:42+09:00",
+      "published_dt": "2026-07-24T23:31:42+09:00",
+      "source": "연합뉴스 국제",
+      "source_category": "글로벌",
+      "summary": "(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 이란전 장기화와 협상 교착에 인내심을 잃으면서 이란에 대해 군사행동으로 '복수...",
+      "title": "끝없는 이란전에 인내심 잃은 트럼프…WSJ \"외교 대신 복수모드\""
+    },
+    {
+      "id": "https://www.yna.co.kr/view/AKR20260724180500071",
+      "link": "https://www.yna.co.kr/view/AKR20260724180500071",
+      "published": "2026-07-24T23:20:13+09:00",
+      "published_dt": "2026-07-24T23:20:13+09:00",
+      "source": "연합뉴스 국제",
+      "source_category": "글로벌",
+      "summary": "(워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령이 다음 주 미국을 방문하는 볼로디미르 젤렌스키 우크라이나 대통령과 회담한다고 로...",
+      "title": "\"트럼프, 내주 미국 방문하는 젤렌스키와 회담\""
+    },
+    {
+      "id": "https://www.yna.co.kr/view/AKR20260724178800083",
+      "link": "https://www.yna.co.kr/view/AKR20260724178800083",
+      "published": "2026-07-24T22:28:25+09:00",
+      "published_dt": "2026-07-24T22:28:25+09:00",
+      "source": "연합뉴스 국제",
+      "source_category": "글로벌",
+      "summary": "(베이징=연합뉴스) 김현정 특파원 = 왕샤오훙 중국 공안부장이 24일 베이징에서 미국 연방수사국(FBI) 국장과 만나 초국경 범죄 대응 협력 확...",
+      "title": "中공안부장, FBI국장과 베이징서 회동…\"초국경 범죄대응 협력\""
+    },
+    {
+      "id": "https://www.yna.co.kr/view/AKR20260724154351079",
+      "link": "https://www.yna.co.kr/view/AKR20260724154351079",
+      "published": "2026-07-24T20:30:06+09:00",
+      "published_dt": "2026-07-24T20:30:06+09:00",
+      "source": "연합뉴스 국제",
+      "source_category": "글로벌",
+      "summary": "(카이로=연합뉴스) 김상훈 특파원 = 이란군은 미국과의 무력 충돌 14일째인 24일(현지시간) 쿠웨이트 등의 미군기지를 타격했다고 밝혔다.",
+      "title": "이란, 쿠웨이트 등 美기지 공격…\"미군 반경 500ｍ 밖 대피하라\"(종합)"
+    },
+    {
+      "id": "https://www.yna.co.kr/view/AKR20260724167000109",
+      "link": "https://www.yna.co.kr/view/AKR20260724167000109",
+      "published": "2026-07-24T19:01:47+09:00",
+      "published_dt": "2026-07-24T19:01:47+09:00",
+      "source": "연합뉴스 국제",
+      "source_category": "글로벌",
+      "summary": "(로마=연합뉴스) 민경락 특파원 = '마가'(MAGA·미국을 다시 위대하게) 진영의 인플루언서 로라 루머가 우크라이나를 찾아 자신의 과거 친러 ...",
+      "title": "우크라 찾은 美극우 인플루언서…돌연 과거 친러발언 반성문"
+    }
+  ]
+}
