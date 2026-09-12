@@ -1,0 +1,618 @@
+{
+  "generated_at": "2026-09-13T08:51:26.282291+09:00",
+  "macro_topics": [
+    {
+      "count": 7,
+      "description": "국제 유가·원자재 흐름과 한국 물가·무역수지 영향",
+      "icon": "◐",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/economy/12151024",
+          "link": "https://www.mk.co.kr/news/economy/12151024",
+          "published": "2026-09-12T10:38:48+09:00",
+          "published_dt": "2026-09-12T10:38:48+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "국제유가가 큰 폭으로 올랐지만 정부의 석유제품 최고가격제 영향으로 국내 주유소 휘발유와 경유 가격은 17주 연속 하락했다. 12일 한국석유공사 유가정보시스템 오피넷에 따르면 9월 ..",
+          "title": "주유소 휘발유값 17주 연속 하락…서울만 1900원대"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12150747",
+          "link": "https://www.mk.co.kr/news/world/12150747",
+          "published": "2026-09-11T18:23:57+09:00",
+          "published_dt": "2026-09-11T18:23:57+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "미국 금융시장 위기론 중동 ‘2개의 전선’ 확전에 브렌트유 109弗까지 올라 30년물 금리 19년來 최고 트럼프, ‘포퓰리즘’ 영향도글로벌 경제가 중동전쟁의 늪에 다시 빠져드는 ..",
+          "title": "유가 110달러에 美국채금리 5%…‘더블펀치’ 공포 [뉴스&분석]"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12149898",
+          "link": "https://www.mk.co.kr/news/economy/12149898",
+          "published": "2026-09-10T21:46:56+09:00",
+          "published_dt": "2026-09-10T21:46:56+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "미국과 이란 간 무력 충돌이 격화하면서 브렌트유에 이어 서부 텍사스산 원유(WTI)도 10일(현지시간) 배럴당 100달러를 넘어섰다. 이날 오전 8시 32분 기준 뉴욕상업거래소에서..",
+          "title": "[속보] 국제유가 고공행진…WTI도 배럴당 100달러 돌파"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12151151",
+          "link": "https://www.mk.co.kr/news/world/12151151",
+          "published": "2026-09-12T20:18:03+09:00",
+          "published_dt": "2026-09-12T20:18:03+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "도널드 트럼프 미국 대통령이 이란과의 전쟁이 오는 11월 미국 중간선거 직후 끝날 것으로 전망했다. 종전 이후 국제유가도 급락할 것이라고 주장했지만, 구체적인 근거는 제시하지 않았..",
+          "title": "끔찍한 고유가, 11월 이후 끝난다?…트럼프 “이란전쟁, 중간선거 직후 종료”"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/stock/12150655",
+          "link": "https://www.mk.co.kr/news/stock/12150655",
+          "published": "2026-09-11T17:38:01+09:00",
+          "published_dt": "2026-09-11T17:38:01+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "국제유가와 미국 국채 금리 급등에 코스피가 다시 7000선 아래로 밀렸다. 중동 전쟁이 물가를 자극하고 주요국의 긴축 우려를 키우면서 증시 반등을 제약하는 모습이다. 다만 삼성전자..",
+          "title": "불붙은 중동에 긴축 가속 … 6500~7000 '박스피' 갇힌 코스피"
+        }
+      ],
+      "kr_comment": "유가 상승은 원유 전량을 수입하는 한국의 무역수지와 물가에 직접 타격을 줍니다. 정유·항공·해운 등 유가 민감 업종의 실적 변동성도 커집니다.",
+      "name": "유가·원자재"
+    },
+    {
+      "count": 6,
+      "description": "미국 물가 지표와 금리 경로에 대한 시사점",
+      "icon": "◈",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/economy/12150011",
+          "link": "https://www.mk.co.kr/news/economy/12150011",
+          "published": "2026-09-11T05:35:14+09:00",
+          "published_dt": "2026-09-11T05:35:14+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "호르무즈·홍해 봉쇄 우려에 브렌트유·WTI 100달러 돌파이란전쟁이 확전과 장기전 양상으로 흘러가면서 국제유가가 또다시 100달러를 돌파하며 인플레이션 우려가 확산되는 가운데 미..",
+          "title": "유가·국채금리 급등에 무너진 투심…美 3대증시 하락 [월가월부]"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12150635",
+          "link": "https://www.mk.co.kr/news/world/12150635",
+          "published": "2026-09-11T17:26:32+09:00",
+          "published_dt": "2026-09-11T17:26:32+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "일본의 생산자물가(기업물가지수)가 원자재 가격 상승과 인공지능(AI) 관련 수요 폭증 영향으로 3개월 연속 7% 이상 높은 증가세를 이어갔다. 시장 전망치도 웃돌아 소비자물가지수(..",
+          "title": "日생산자물가 고공행진 … 3개월 연속 7%대 상승"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/stock/12151023",
+          "link": "https://www.mk.co.kr/news/stock/12151023",
+          "published": "2026-09-12T10:26:47+09:00",
+          "published_dt": "2026-09-12T10:26:47+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "국제유가 하락 CPI 예상치 부합11일(현지시간) 뉴욕증시가 5일 만에 반등했다. 국제유가 하락과 예상치를 벗어나지 않은 소비자물가지수(CPI) 발표 영향으로 분석된다. 이날 다우..",
+          "title": "뉴욕증시, 닷새만에 반등…다우 1%↑"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12150844",
+          "link": "https://www.mk.co.kr/news/world/12150844",
+          "published": "2026-09-11T21:36:13+09:00",
+          "published_dt": "2026-09-11T21:36:13+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "미국 노동부 노동통계국은 8월 미국의 소비자물가지수(CPI)가 전년 동월 대비 3.4% 상승했다고 11일(현지시간) 밝혔다. 전월 대비 상승률은 0.4%로, 전년·전월 대비 모두 ..",
+          "title": "[속보] 美 8월 소비자물가 전년 대비 3.4% 상승…예상치 부합"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12150881",
+          "link": "https://www.mk.co.kr/news/world/12150881",
+          "published": "2026-09-11T22:56:28+09:00",
+          "published_dt": "2026-09-11T22:56:28+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "글로벌 경제가 중동 전쟁의 늪에 다시 빠져드는 양상이다. 국제 유가는 4개월 만에 다시 배럴당 100달러를 넘는 변동성을 보이고 있다. 인플레이션 장기화 우려에 국채 시장도 약세를..",
+          "title": "[뉴스&분석] 유가 110弗·국채 5% '더블펀치' 공포"
+        }
+      ],
+      "kr_comment": "미국 물가가 높게 유지되면 금리 인하 시점이 지연되어 달러 강세·원화 약세로 이어질 수 있습니다. 원화 약세는 수입물가를 밀어올려 국내 물가에도 부담을 줍니다.",
+      "name": "물가·인플레이션"
+    },
+    {
+      "count": 4,
+      "description": "연준 통화정책 방향과 한국 금리·환율 파급",
+      "icon": "▤",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/economy/12149643",
+          "link": "https://www.mk.co.kr/news/economy/12149643",
+          "published": "2026-09-10T17:49:23+09:00",
+          "published_dt": "2026-09-10T17:49:23+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "한국은행이 물가 상승률을 상당 기간 목표 수준인 2%를 웃돌 것으로 예상하면서 추가 기준금리 인상 가능성을 열어뒀다. 반도체 수출과 투자 호조에 소비 회복까지 더해지면서 탄탄한 성..",
+          "title": "한은, 추가 금리 인상 예고 \"물가 상당기간 2% 웃돌 것\""
+        },
+        {
+          "id": "CBMiuAFBVV95cUxQQzB6V1c1bWRPbjB3UUllSmNwRVpDUVI2OUIyemQzM09QSWVvNE5laThROFVPMTBqekZZc3NaZjBHMjh1YmZVRWlkNVNKUGc5ejZvam5FakZIOTRtbWVfSi1zbVlyc19ILWhvcC1kS0JINHpuaDY3Qm1sUVBXYzMtZVhHLVE1RWZIdmdkS1pObGdyMTd6UXRkUEdDeXJFQXVfenRJQ2J4RmttblczUHJzS25nb1NHQnNv0gG-AUFVX3lxTE5QZjVlNXhFTTNjX1dBTElGUzNJcDNDMmw1NVRYaWxDdG02Q0tONTFqOXRMZzZTSDF2SlVjTGNTQTFYY01TUG1OR2lXaWtKRGpESG9mQUkzanUyUXc2Q1g2dENCYXl4WnhGTlA5RnlYTnU4YzNpNHBrNlA3NDdSQU9PT1QwNFp1N2lKNjdGMy1XNWd2VHB2Sy00UVFXSWp6RXJxLUVNOGpWVHBfaTZxSkJKN3NFTlFaNXVURnc3NVE",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQzB6V1c1bWRPbjB3UUllSmNwRVpDUVI2OUIyemQzM09QSWVvNE5laThROFVPMTBqekZZc3NaZjBHMjh1YmZVRWlkNVNKUGc5ejZvam5FakZIOTRtbWVfSi1zbVlyc19ILWhvcC1kS0JINHpuaDY3Qm1sUVBXYzMtZVhHLVE1RWZIdmdkS1pObGdyMTd6UXRkUEdDeXJFQXVfenRJQ2J4RmttblczUHJzS25nb1NHQnNv0gG-AUFVX3lxTE5QZjVlNXhFTTNjX1dBTElGUzNJcDNDMmw1NVRYaWxDdG02Q0tONTFqOXRMZzZTSDF2SlVjTGNTQTFYY01TUG1OR2lXaWtKRGpESG9mQUkzanUyUXc2Q1g2dENCYXl4WnhGTlA5RnlYTnU4YzNpNHBrNlA3NDdSQU9PT1QwNFp1N2lKNjdGMy1XNWd2VHB2Sy00UVFXSWp6RXJxLUVNOGpWVHBfaTZxSkJKN3NFTlFaNXVURnc3NVE?oc=5",
+          "published": "2026-09-11T15:48:00+00:00",
+          "published_dt": "2026-09-11T15:48:00+00:00",
+          "source": "Google News - US Economy",
+          "source_category": "글로벌",
+          "summary": "Gold climbs on dip-buying, Fed rate hike bets rise after US inflation data The Korea Times",
+          "title": "Gold climbs on dip-buying, Fed rate hike bets rise after US inflation data - The Korea Times"
+        },
+        {
+          "id": "CBMif0FVX3lxTE5BOHFYWjk2NE9mS1VxMzFvTHpCV2picXMwVm4zWDFQM202ZVM1VlN6ZnhQQVZkRXA1d2p0SHNEdVo5dmo2bk5BWFFCUGxHRGlCV0ZncVpuNjBCUmRLSEJSbW5sd3VyLVZNel9sdmk0N0kxMUt0T1lFOFFOc2thRGfSAZMBQVVfeXFMUEpFVTJJdDJIYm5qYjlsNVRSQWR3TDlDeTk3SXBwalZIcUVER3R1a0t6Mkx4SXhVVjJMSl85d0pmaXZRMVBNTTRqUGZGOG9xcGRuenQ2dXlQalp0SU40Q0R4cTIyRVRQdV90cW11d3I5RGh0R2x0SzZ6MFRGaUNCbFpmamVwaGprbE5iT0Y5ODQ1VTNZ",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BOHFYWjk2NE9mS1VxMzFvTHpCV2picXMwVm4zWDFQM202ZVM1VlN6ZnhQQVZkRXA1d2p0SHNEdVo5dmo2bk5BWFFCUGxHRGlCV0ZncVpuNjBCUmRLSEJSbW5sd3VyLVZNel9sdmk0N0kxMUt0T1lFOFFOc2thRGfSAZMBQVVfeXFMUEpFVTJJdDJIYm5qYjlsNVRSQWR3TDlDeTk3SXBwalZIcUVER3R1a0t6Mkx4SXhVVjJMSl85d0pmaXZRMVBNTTRqUGZGOG9xcGRuenQ2dXlQalp0SU40Q0R4cTIyRVRQdV90cW11d3I5RGh0R2x0SzZ6MFRGaUNCbFpmamVwaGprbE5iT0Y5ODQ1VTNZ?oc=5",
+          "published": "2026-09-11T06:42:00+00:00",
+          "published_dt": "2026-09-11T06:42:00+00:00",
+          "source": "Google News - US Economy",
+          "source_category": "글로벌",
+          "summary": "Dollar strengthens as South Korea won weakens on oil surge and Fed fears - CHOSUNBIZ Chosunbiz",
+          "title": "Dollar strengthens as South Korea won weakens on oil surge and Fed fears - CHOSUNBIZ - Chosunbiz"
+        },
+        {
+          "id": "CBMisAFBVV95cUxOOHJsdmdILWJ5dEllTDdXYkNLTFFGRUJvbWVBM09QR2dhMF9sVlZMN2llbHhhalFFeXVvRjg3dU1ZZ3BKTXNxdkdUOTU4S2lKQlYxMWcxNF9TaENzSFVGbzl1cWdkb1JJNnE0bG5zUzNYSUllUTlQN0ZTTUctZjBmSS0yX3NDNEJsZVU5VDNzQnVFam1KWWgxMVZETTBJN09taGhybHB5NllDNk53YXhWWtIBtgFBVV95cUxPc0Z1d3FpeEhjcnppNzhET3daTnJWOFBuSmY2d0JGaTBpQ2RsTEJFbzJFTV9sX1lOeVVlS3lHam1GQkhqVTZSakxUQndycWc1N29tXy1hMjZtUVhvbVN0Ymg4Mk1qWUlFbWtJU2M1YjRqdS0tb0FUZkNtak1hOUdvSmkxWTBGWUVzZ05yMXZYZkJnVnJ0RENaT1ltT0pVY2pDeFgybjVHM09SVlFkQzJMTlI1amY2dw",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHJsdmdILWJ5dEllTDdXYkNLTFFGRUJvbWVBM09QR2dhMF9sVlZMN2llbHhhalFFeXVvRjg3dU1ZZ3BKTXNxdkdUOTU4S2lKQlYxMWcxNF9TaENzSFVGbzl1cWdkb1JJNnE0bG5zUzNYSUllUTlQN0ZTTUctZjBmSS0yX3NDNEJsZVU5VDNzQnVFam1KWWgxMVZETTBJN09taGhybHB5NllDNk53YXhWWtIBtgFBVV95cUxPc0Z1d3FpeEhjcnppNzhET3daTnJWOFBuSmY2d0JGaTBpQ2RsTEJFbzJFTV9sX1lOeVVlS3lHam1GQkhqVTZSakxUQndycWc1N29tXy1hMjZtUVhvbVN0Ymg4Mk1qWUlFbWtJU2M1YjRqdS0tb0FUZkNtak1hOUdvSmkxWTBGWUVzZ05yMXZYZkJnVnJ0RENaT1ltT0pVY2pDeFgybjVHM09SVlFkQzJMTlI1amY2dw?oc=5",
+          "published": "2026-09-11T00:20:03+00:00",
+          "published_dt": "2026-09-11T00:20:03+00:00",
+          "source": "Google News - US Economy",
+          "source_category": "글로벌",
+          "summary": "The Fed's credibility depends on resisting politics, not playing it The Korea Times",
+          "title": "The Fed's credibility depends on resisting politics, not playing it - The Korea Times"
+        }
+      ],
+      "kr_comment": "미국 기준금리가 한국보다 높은 상태가 이어지면 원·달러 환율 상승 압력이 커지고, 외국인 자금 이탈 가능성이 코스피에 부담으로 작용할 수 있습니다. 한국은행도 미국과의 금리차를 고려해 인하를 자제하는 경향이 있습니다.",
+      "name": "통화정책·금리"
+    },
+    {
+      "count": 1,
+      "description": "달러 흐름과 원화 가치·외국인 수급 영향",
+      "icon": "◑",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/economy/12150114",
+          "link": "https://www.mk.co.kr/news/economy/12150114",
+          "published": "2026-09-11T09:37:44+09:00",
+          "published_dt": "2026-09-11T09:37:44+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "국내 거주자가 해외주식을 사들이기 위해 내보내던 자금이 이달 들어 순유입으로 돌아섰다. 국내 주식을 팔던 외국인도 순매수로 전환해 주식자금 흐름이 모두 원·달러 환율을 끌어내리는 ..",
+          "title": "서학개미 투자열기 식고, 외국인은 돌아오고…환율 더 내릴까"
+        }
+      ],
+      "kr_comment": "달러 강세는 원화 약세로 이어져 외국인 자금 이탈을 자극할 수 있습니다. 다만 원화 약세는 수출 기업의 가격 경쟁력에는 유리하게 작용하는 양면성이 있습니다.",
+      "name": "달러·환율"
+    }
+  ],
+  "sector_topics": [
+    {
+      "count": 8,
+      "description": "미국 반도체 정책·업황과 한국 반도체 밸류체인",
+      "icon": "▣",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/economy/12150722",
+          "link": "https://www.mk.co.kr/news/economy/12150722",
+          "published": "2026-09-11T18:00:12+09:00",
+          "published_dt": "2026-09-11T18:00:12+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "관세청은 이달 1~10일 수출액이 350억달러로 지난해 같은 기간보다 82.6% 증가했다고 11일 밝혔다. 이는 월별 초순 수출액 가운데 역대 가장 큰 규모다. 반도체 수출이 1..",
+          "title": "9월 누적 수출액 급등 … 82% 증가한 350억弗"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/economy/12150417",
+          "link": "https://www.mk.co.kr/news/economy/12150417",
+          "published": "2026-09-11T14:22:14+09:00",
+          "published_dt": "2026-09-11T14:22:14+09:00",
+          "source": "매일경제 경제",
+          "source_category": "경제",
+          "summary": "반도체 전년비 270% 넘는 랠리 석유제품·승용차 나란히 호조세 대만 수출 176.0% 늘어나 눈길 기계류 수입 2.7% 감소하며 대조관세청은 이달 1~10일 수출액이 350억달러..",
+          "title": "열흘 만에 무역수지 104억달러 흑자… 반도체 수출 ‘폭등’ 165억달러"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12150996",
+          "link": "https://www.mk.co.kr/news/world/12150996",
+          "published": "2026-09-12T08:43:52+09:00",
+          "published_dt": "2026-09-12T08:43:52+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "관세·인텔·플래티넘 카드 등 측근 설명 제각각 WSJ “노골적인 매표행위”…재원 현실성 비판도널드 트럼프 미국 대통령이 11월 중간선거에서 공화당이 승리할 경우 성인 시민 1명당 ..",
+          "title": "“공화당 승리 땐 1인당 5000달러 준다” 트럼프 제안에…측근들도 “무슨 돈으로?”"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12150549",
+          "link": "https://www.mk.co.kr/news/world/12150549",
+          "published": "2026-09-11T16:36:07+09:00",
+          "published_dt": "2026-09-11T16:36:07+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "미국 반도체업체 마이크론 테크놀로지가 대만 현지 직원들에게 100만 대만달러(약 4250만원)의 현금 보너스와 이외 별도의 주식 보상을 지급하기로 했다. 11일 블룸버그 통신, 연..",
+          "title": "“신입급에도 1.4억 특별보너스”…삼전 파업 보고 배웠다는 이 회사"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/stock/12151044",
+          "link": "https://www.mk.co.kr/news/stock/12151044",
+          "published": "2026-09-12T12:56:06+09:00",
+          "published_dt": "2026-09-12T12:56:06+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "SGOV에 열흘 새 1746억원 몰려 엔비디아 제치고 해외주식 1위 SOXL·QLD엔 반등 베팅 지속미국 증시 변동성이 커지자 서학개미들의 투자 전략에도 변화가 나타나고 있다. 안..",
+          "title": "안전벨트 매고 레버리지로 가속페달…‘양면 베팅’으로 갈아탄 서학개미들"
+        }
+      ],
+      "name": "반도체",
+      "stocks": [
+        {
+          "code": "005930",
+          "market": "KOSPI",
+          "name": "삼성전자",
+          "note": "메모리·파운드리, 테일러 공장 양산"
+        },
+        {
+          "code": "000660",
+          "market": "KOSPI",
+          "name": "SK하이닉스",
+          "note": "HBM 글로벌 1위, 엔비디아 공급"
+        },
+        {
+          "code": "042700",
+          "market": "KOSPI",
+          "name": "한미반도체",
+          "note": "HBM TC본더 글로벌 1위"
+        },
+        {
+          "code": "039030",
+          "market": "KOSDAQ",
+          "name": "이오테크닉스",
+          "note": "레이저 어닐링 장비"
+        },
+        {
+          "code": "403870",
+          "market": "KOSDAQ",
+          "name": "HPSP",
+          "note": "고압 수소 어닐링 독점"
+        },
+        {
+          "code": "058470",
+          "market": "KOSDAQ",
+          "name": "리노공업",
+          "note": "반도체 테스트 소켓"
+        }
+      ]
+    },
+    {
+      "count": 6,
+      "description": "미국 AI·빅테크 CAPEX와 한국 인프라 수혜주",
+      "icon": "◎",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/it/12150793",
+          "link": "https://www.mk.co.kr/news/it/12150793",
+          "published": "2026-09-11T19:30:01+09:00",
+          "published_dt": "2026-09-11T19:30:01+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "서버 감당 못할 정도로 인기 오픈AI “AGI 시대의 시작”오픈AI가 최신 인공지능(AI) 모델 ‘GPT-6 아스트라’에 이용자가 몰리자 월 200달러짜리 최상위 ‘프로’ 요금제의..",
+          "title": "“한달 200달러? 내 돈 가져가십쇼”…GPT-6 가입폭주에 일시중단"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/business/12150465",
+          "link": "https://www.mk.co.kr/news/business/12150465",
+          "published": "2026-09-11T14:56:51+09:00",
+          "published_dt": "2026-09-11T14:56:51+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "약점 뚜렷한 오라클 어도비 실적 발표‘위기의 미국 주식’ 오라클과 어도비가 나란히 실적을 발표했는데 예상보다 좋은 성적표를 내놨다. 그러나 오라클은 인공지능(AI)에 너무 많은 돈..",
+          "title": "빚만 168조원인데 주가 반등? … 오라클의 ‘AI 도박’ 통해야 삼전닉스도 산다"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/stock/12150195",
+          "link": "https://www.mk.co.kr/news/stock/12150195",
+          "published": "2026-09-11T10:08:00+09:00",
+          "published_dt": "2026-09-11T10:08:00+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "안녕하세요. 미국 주식 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’입니다. 10일, 에버쿼트(EVER)가 MK시그널에서 매도 신호가 포착돼 수익률 28.14% 달성했습니다..",
+          "title": "[MK시그널] 에버쿼트 매도신호 포착, 수익률 28.1% 달성"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/stock/12150669",
+          "link": "https://www.mk.co.kr/news/stock/12150669",
+          "published": "2026-09-11T17:44:01+09:00",
+          "published_dt": "2026-09-11T17:44:01+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "미국 소프트웨어 기업 오라클이 시장 예상을 웃도는 실적과 개선된 현금흐름을 내놓으면서 시간 외 거래에서 정규장 하락분을 만회했다. 인공지능(AI) 데이터센터 투자를 위해 막대한 자..",
+          "title": "[미국 주식 돋보기] 오라클, 실적 발표 후↑…\"AI투자, 돈낭비 걱정 털어\""
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12150369",
+          "link": "https://www.mk.co.kr/news/world/12150369",
+          "published": "2026-09-11T13:34:41+09:00",
+          "published_dt": "2026-09-11T13:34:41+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "루보프 KKR 아태 대표 “글로벌 투자자 韓 선호” 디지털 인프라 전력 포함 700억달러 투자 “한국 대기업·정부와 수십년 파트너십” “아시아 시장 디지털·탈탄소화·탈집중화 중요”..",
+          "title": "KKR “한국은 AI 시대 아시아 인프라 투자 핵심시장”[제 27회 세계지식포럼]"
+        }
+      ],
+      "name": "AI·빅테크",
+      "stocks": [
+        {
+          "code": "000660",
+          "market": "KOSPI",
+          "name": "SK하이닉스",
+          "note": "AI 서버 HBM 수요 직결"
+        },
+        {
+          "code": "035420",
+          "market": "KOSPI",
+          "name": "네이버",
+          "note": "하이퍼클로바X, 소버린 AI"
+        },
+        {
+          "code": "012510",
+          "market": "KOSPI",
+          "name": "더존비즈온",
+          "note": "기업용 AI SaaS"
+        },
+        {
+          "code": "041020",
+          "market": "KOSDAQ",
+          "name": "폴라리스오피스",
+          "note": "AI 오피스 소프트웨어"
+        },
+        {
+          "code": "093320",
+          "market": "KOSDAQ",
+          "name": "케이아이엔엑스",
+          "note": "데이터센터·인터넷 인프라"
+        }
+      ]
+    },
+    {
+      "count": 3,
+      "description": "미국 무역·관세 정책과 한국 수출 산업 전반",
+      "icon": "⚖",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/world/12150727",
+          "link": "https://www.mk.co.kr/news/world/12150727",
+          "published": "2026-09-11T18:00:14+09:00",
+          "published_dt": "2026-09-11T18:00:14+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "김정관 산업통상부 장관이 10일(현지시간) 대미투자 1호 프로젝트를 조율하기 위해 미국을 전격 방문했다. 오는 12일까지 하워드 러트닉 미 상무장관을 비롯해 정부 관계자들을 만나 ..",
+          "title": "김정관, 막판 협상하러 訪美 … 대미투자 이르면 18일 발표"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12150335",
+          "link": "https://www.mk.co.kr/news/world/12150335",
+          "published": "2026-09-11T11:37:32+09:00",
+          "published_dt": "2026-09-11T11:37:32+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "트럼프 집권 2기 후반기 분수령 민주 하원 장악 땐 대규모 입법 제동 관세 등 행정권 활용은 확대 가능성 상원은 공화당 다수 유지 전망도널드 트럼프 미국 대통령의 집권 2기 후반기..",
+          "title": "美 중간선거 두 달 앞으로…“민주당, 하원 탈환 가능성”[제27회 세계지식포럼]"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/world/12150271",
+          "link": "https://www.mk.co.kr/news/world/12150271",
+          "published": "2026-09-11T11:01:10+09:00",
+          "published_dt": "2026-09-11T11:01:10+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "도널드 트럼프 미국 대통령은 공화당이 11월 중간선거에서 승리할 경우 미국 성인 시민 1인당 5000달러(약 670만원)씩 나눠주겠다는 자신의 약속을 이행할 재원으로 관세 수입을 ..",
+          "title": "선거 이기면 ‘전국민에 670만원’ 쏜다는 트럼프…재원은 다른나라 대미 투자금?"
+        }
+      ],
+      "name": "무역·관세",
+      "stocks": [
+        {
+          "code": "005930",
+          "market": "KOSPI",
+          "name": "삼성전자",
+          "note": "반도체 대미 수출 최대"
+        },
+        {
+          "code": "005380",
+          "market": "KOSPI",
+          "name": "현대차",
+          "note": "자동차 관세 직접 영향"
+        },
+        {
+          "code": "005490",
+          "market": "KOSPI",
+          "name": "포스코홀딩스",
+          "note": "철강 232조 관세"
+        },
+        {
+          "code": "066570",
+          "market": "KOSPI",
+          "name": "LG전자",
+          "note": "가전 대미 수출·현지 생산"
+        },
+        {
+          "code": "161390",
+          "market": "KOSPI",
+          "name": "한국타이어앤테크놀로지",
+          "note": "타이어 관세 이슈"
+        }
+      ]
+    },
+    {
+      "count": 2,
+      "description": "미국 자동차·배터리 정책과 한국 모빌리티 밸류체인",
+      "icon": "▥",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/world/12151112",
+          "link": "https://www.mk.co.kr/news/world/12151112",
+          "published": "2026-09-12T18:31:33+09:00",
+          "published_dt": "2026-09-12T18:31:33+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "일론 머스크 테슬라 최고경영자(CEO)가 자신을 다룬 다큐멘터리가 공개되자 감독을 맹비난했다. 제83회 베네치아국제영화제에서 공개된 알렉스 기브니 감독의 ‘머스크(Musk)’다. ..",
+          "title": "“개똥 보다 못한 인간”…225분 다큐에 격분한 머스크, 무슨 내용이길래"
+        },
+        {
+          "id": "https://www.mk.co.kr/news/business/12149392",
+          "link": "https://www.mk.co.kr/news/business/12149392",
+          "published": "2026-09-11T04:30:00+09:00",
+          "published_dt": "2026-09-11T04:30:00+09:00",
+          "source": "매일경제 증권",
+          "source_category": "증시",
+          "summary": "‘스마트카 패권 전쟁’ 저자 박정규 카이스트 기술경영전문대학원 초빙교수글로벌 자동차 시장에 거대한 지각변동이 일어나고 있다. 한때 시장을 주도했던 독일과 일본 업체들은 전동화와 소..",
+          "title": "테슬라 판 깔고 중국차가 먹는다 … 한국 차는 ‘여기쯤"
+        }
+      ],
+      "name": "자동차·2차전지",
+      "stocks": [
+        {
+          "code": "005380",
+          "market": "KOSPI",
+          "name": "현대차",
+          "note": "조지아 메타플랜트 가동"
+        },
+        {
+          "code": "000270",
+          "market": "KOSPI",
+          "name": "기아",
+          "note": "미국 현지 생산 확대"
+        },
+        {
+          "code": "012330",
+          "market": "KOSPI",
+          "name": "현대모비스",
+          "note": "부품 현지화"
+        },
+        {
+          "code": "373220",
+          "market": "KOSPI",
+          "name": "LG에너지솔루션",
+          "note": "IRA 보조금 최대 수혜"
+        },
+        {
+          "code": "006400",
+          "market": "KOSPI",
+          "name": "삼성SDI",
+          "note": "미국 합작공장 확대"
+        },
+        {
+          "code": "247540",
+          "market": "KOSDAQ",
+          "name": "에코프로비엠",
+          "note": "양극재 북미 공급망"
+        }
+      ]
+    },
+    {
+      "count": 1,
+      "description": "미국 국방·우주 정책과 K-방산 수출",
+      "icon": "✦",
+      "items": [
+        {
+          "id": "https://www.mk.co.kr/news/world/12150208",
+          "link": "https://www.mk.co.kr/news/world/12150208",
+          "published": "2026-09-11T10:15:09+09:00",
+          "published_dt": "2026-09-11T10:15:09+09:00",
+          "source": "매일경제 국제",
+          "source_category": "글로벌",
+          "summary": "이란이 지하 시설에 비축해 놓은 부품을 조립해 탄도미사일 생산을 재개한 것으로 알려졌다. 10일(현지시간) 월스트리트저널(WSJ), 연합뉴스에 따르면 미국과 중동 당국자들은 전쟁 ..",
+          "title": "“이란, 탄도미사일 생산 재개…새로운 지하기지 건설 시도 중”"
+        }
+      ],
+      "name": "방산·우주",
+      "stocks": [
+        {
+          "code": "012450",
+          "market": "KOSPI",
+          "name": "한화에어로스페이스",
+          "note": "K9·우주발사체"
+        },
+        {
+          "code": "064350",
+          "market": "KOSPI",
+          "name": "현대로템",
+          "note": "K2 전차 수출"
+        },
+        {
+          "code": "079550",
+          "market": "KOSPI",
+          "name": "LIG넥스원",
+          "note": "유도무기, 美 수출 추진"
+        },
+        {
+          "code": "047810",
+          "market": "KOSPI",
+          "name": "한국항공우주",
+          "note": "FA-50·KF-21"
+        },
+        {
+          "code": "099320",
+          "market": "KOSDAQ",
+          "name": "쎄트렉아이",
+          "note": "위성 시스템"
+        }
+      ]
+    }
+  ],
+  "total_count": 56,
+  "uncategorized": [
+    {
+      "id": "https://www.mk.co.kr/news/world/12151159",
+      "link": "https://www.mk.co.kr/news/world/12151159",
+      "published": "2026-09-12T20:49:07+09:00",
+      "published_dt": "2026-09-12T20:49:07+09:00",
+      "source": "매일경제 국제",
+      "source_category": "글로벌",
+      "summary": "브릭스(BRICS) 회원국들이 중동 지역 확전을 막기 위해 “최대한의 자제”를 촉구하며 국제법에 어긋나는 일방적 강압 조치와 보호무역주의에 반대한다는 내용을 담은 공동선언을 만장일..",
+      "title": "[속보] 브릭스 “국제법 위반한 일방 제재 반대…중동서 자제 촉구”"
+    },
+    {
+      "id": "https://www.mk.co.kr/news/world/12151149",
+      "link": "https://www.mk.co.kr/news/world/12151149",
+      "published": "2026-09-12T20:14:21+09:00",
+      "published_dt": "2026-09-12T20:14:21+09:00",
+      "source": "매일경제 국제",
+      "source_category": "글로벌",
+      "summary": "도널드 트럼프 미국 대통령이 캐나다와의 무역협정이 조만간 타결될 가능성이 있다고 밝혔다. 로이터통신에 따르면 트럼프 대통령은 12일(현지시간) 아일랜드 더블린에서 미헬 마틴 아일랜..",
+      "title": "“미국산 절대 안 산다” 수입장벽에 단단히 뿔난 캐나다, 트럼프는 “조만간 타결”"
+    },
+    {
+      "id": "https://www.mk.co.kr/news/world/12151053",
+      "link": "https://www.mk.co.kr/news/world/12151053",
+      "published": "2026-09-12T14:26:59+09:00",
+      "published_dt": "2026-09-12T14:26:59+09:00",
+      "source": "매일경제 국제",
+      "source_category": "글로벌",
+      "summary": "미국 도널드 트럼프 행정부가 9·11 테러 참사 25주년을 맞은 11일(현지시간) 이 테러를 주도한 이슬람 근본주의 조직 알카에다의 고위 지도자 8명을 상대로 거액의 현상금을 내걸..",
+      "title": "“제보해 달라”…‘9·11 테러’ 주도 8명에 ‘최대 134억’ 현상금"
+    },
+    {
+      "id": "https://www.mk.co.kr/news/world/12151029",
+      "link": "https://www.mk.co.kr/news/world/12151029",
+      "published": "2026-09-12T11:00:21+09:00",
+      "published_dt": "2026-09-12T11:00:21+09:00",
+      "source": "매일경제 국제",
+      "source_category": "글로벌",
+      "summary": "클린턴·부시 시절 기밀 71건 공개미국 중앙정보국(CIA)이 9·11 테러 참사 25주년인 11일(현지시간) 알카에다와 오사마 빈라덴 관련 정부 기밀자료를 공개했다. 존 랫클리프 ..",
+      "title": "“미국 본토 공격하기로 결심”…CIA가 공개한 기밀자료, 25년전 무슨 일이"
+    },
+    {
+      "id": "https://www.mk.co.kr/news/world/12150993",
+      "link": "https://www.mk.co.kr/news/world/12150993",
+      "published": "2026-09-12T08:33:40+09:00",
+      "published_dt": "2026-09-12T08:33:40+09:00",
+      "source": "매일경제 국제",
+      "source_category": "글로벌",
+      "summary": "트럼프, 이란전쟁 정당성 강조 “끔찍한 악의 순간, 싸우는 이유” 부시·클린턴·오바마·바이든 등 “테러 교훈 주목” 통합·연대 목소리미국 역사상 최악의 참사로 기록된 9·11 테..",
+      "title": "‘9·11 추모’ 전직 대통령 4명 뉴욕으로…트럼프 나홀로 펜타곤 간 이유가"
+    }
+  ]
+}
